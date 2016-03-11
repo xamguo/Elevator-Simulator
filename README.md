@@ -7,6 +7,7 @@ Project involves system design, logic design and coding.
 
 1. The design process and testing of elevator can be found in:
 http://www.andrew.cmu.edu/user/xiaog/Elevator/portfolio/portfolio.html
+
 Water-fall design process was followed.
 
 2. The code of elevator is in this github repository.
