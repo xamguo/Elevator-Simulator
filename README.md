@@ -1,5 +1,7 @@
-# Elevator-Simulator
+# Elevator Simulator
+
 18649 Project
+
 A JAVA simulated distributed elevator.
 Project involves system design, logic design and coding.
 
